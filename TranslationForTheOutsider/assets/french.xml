@@ -71,7 +71,7 @@
   </entry>
   <entry>
     <key>ScientistAnswerNEW_Well... yeah.</key>
-    <value>Ben... ouai.</value>
+    <value>Ben... ouais.</value>
   </entry>
   <entry>
     <!-- The translation for "Anglerfish" is "Baudroie" but in the original game they call it "Cœlacanthe" so i will keep the official translation-->
@@ -111,7 +111,7 @@
   </entry>
   <entry>
     <key>FeldsparRecording_Anyway, off inside I go! To adventure!</key>
-    <value>Quoi qu'il en soit, je pars à l'intérieur ! A l'aventure !</value>
+    <value>Quoi qu'il en soit, je pars à l'intérieur ! À l'aventure !</value>
   </entry>
   <entry>
     <!-- From here we're talking directly to Feldspath, so he calls us with "tu" -->
@@ -255,11 +255,11 @@
   </entry>
   <entry>
     <key>FigureSomethingOutResponseD1_You tell me, hatchling. You tell me.</key>
-    <value>A toi de me le dire, petite pierre. A toi de me le dire.</value>
+    <value>À toi de me le dire, petite pierre. À toi de me le dire.</value>
   </entry>
   <entry>
     <key>FigureSomethingOutResponseD2_Yeah, catch ya later, hatchling. Sorry I couldn’t be of more help.</key>
-    <value>Ouais, à plus tard, petite pierre. Désolé de ne pas avoir pu t'aider d'avantage.</value>
+    <value>Ouais, à plus tard, petite pierre. Désolé de ne pas avoir pu t'aider davantage.</value>
   </entry>
   <entry>
     <key>FigureSomethingOut1_That’s the stupid-looking tall structure, isn’t it?</key>
@@ -295,7 +295,7 @@
   </entry>
   <entry>
     <key>FigureSomethingOut2_Oh, it fell in here, did it? Well then you’re not going to find it by randomly wandering around this place...</key>
-    <value>Oh, il est tombé la dedans, c'est ça ? Eh bien, tu ne le trouvera pas en te promenant au hasard dans cet endroit...</value>
+    <value>Oh, il est tombé la dedans, c'est ça ? Eh bien, tu ne le trouveras pas en te promenant au hasard dans cet endroit...</value>
   </entry>
   <entry>
     <key>FigureSomethingOut2_So, do what you did to find me! ...Though, I doubt it’s sending out a signal like I am, so... that might be a problem.</key>
@@ -535,7 +535,7 @@
   </entry>
   <entry>
     <key>DATURA: Not sure what I’m going to do with my shuttle. Suppose I’ll camp here for now. It’s actually quite nice! In this air pocket, anyway. Weird trees.</key>
-    <value>DATURA:Je ne sais pas ce que je vais faire de ma navette. Je suppose que je vais camper ici pour l'instant. C'est plutôt agréable ! Dans cette poche d'air, en tout cas. Arbres bizarres.</value>
+    <value>DATURA: Je ne sais pas ce que je vais faire de ma navette. Je suppose que je vais camper ici pour l'instant. C'est plutôt agréable ! Dans cette poche d'air, en tout cas. Arbres bizarres.</value>
   </entry>
   <entry>
     <key>DATURA: Ugh. Yarrow... I know your intentions are good, but maybe it’s time to give up the obsession with the Eye. You know, the whole ’letting go’ thing everyone goes on about.</key>
@@ -552,7 +552,7 @@
   <entry>
     <!--New original names for planets, translation may not be required here -->
     <key>DATURA: Ahhh, this planet reminds me of one I went to with Filix. Gusty Gardens... Oh yeah, and Cosmic Cove! And...! Those... Those were good times.</key>
-    <value>DATURA: Ahhh, cette planète me rappelle celle où je suis allé avec Filix. Gusty Gardens... Ah oui, et Cosmic Cove ! Et... ! C'était... C'était le bon temps.</value>
+    <value>DATURA: Ahhh, cette planète me rappelle celle où je suis allé avec Filix. Gusty Gardens... Ah oui, et Cosmic Cove ! Et... ! C'était... C'était le bon vieux temps.</value>
   </entry>
   <entry>
     <key>DATURA: But here I am on Dark Bramble! ...alone. ...Ugh, I have to focus. I’m on a mission!</key>
@@ -586,7 +586,7 @@
   </entry>
   <entry>
     <key>DATURA: And the warp core fell out, so I went over to grab it - might be useful, I thought. But after returning to the shelter here to use the device a second time, the shuttle blew up!</key>
-    <value>DATURA: Et le noyau de distorsion est tombé, alors je suis allé le récupérer - ça pourrait être utile je me suis dit. Mais après être retourné à l'abri ici pour utiliser l'appareil une deuxième fois, la navette a explosée !</value>
+    <value>DATURA: Et le noyau de distorsion est tombé, alors je suis allé le récupérer - ça pourrait être utile je me suis dit. Mais après être retourné à l'abri ici pour utiliser l'appareil une deuxième fois, la navette a explosé !</value>
   </entry>
   <entry>
     <key>DATURA: Mission accomplished. But also wow, I almost died! I should be more careful...</key>
@@ -612,11 +612,11 @@
   </entry>
   <entry>
     <key>DATURA: Friend asked why I've written and am writing my thoughts and leaving them around the place. I told them it's kinda a Nomai thing.</key>
-    <value>DATURA: Ami m'ont demandé pourquoi j'écrivais et j'écris toujours mes pensées et les laisse un peu partout. Je leur ai dit que c'était un truc Nomaï.</value>
+    <value>DATURA: Ami m'a demandé pourquoi j'écrivais et écris toujours mes pensées et les laisse un peu partout. Je lui ai dit que c'était un truc de Nomaï.</value>
   </entry>
   <entry>
     <key>DATURA: Nomai are <![CDATA[<i>]]>(or are supposed to be)<![CDATA[</i>]]> nomads, so I suppose it's a way of telling other Nomai clans ’HA HA! We were here first!’</key>
-    <value>DATURA: Les Nomaï sont <![CDATA[<i>]]>(ou sont censés être)<![CDATA[</i>]]> nomades, donc je suppose que c'est une façon de dire aux autres clans Nomai "HA HA ! Nous étions là les premiers !</value>
+    <value>DATURA: Les Nomaï sont <![CDATA[<i>]]>(ou sont censés être)<![CDATA[</i>]]> nomades, donc je suppose que c'est une façon de dire aux autres clans Nomai "HA HA ! Nous étions là les premiers !"</value>
   </entry>
   <entry>
     <key>DATURA: Or warn them of dangers or cool stuff or something.</key>
@@ -628,11 +628,11 @@
   </entry>
   <entry>
     <key>DATURA: Friend was a bit confused why I wasn't using the device again, but I assured them I knew what I was doing. We waited... and waited... then, bang! Their ship exploded too. Then they understood.</key>
-    <value>DATURA: Ami s'est demandé pourquoi je n'utilisais pas de nouveau l'appareil, mais je leur ai assuré que je savais ce que je faisais. Nous avons attendu... et attendu... puis, bang ! Leur vaisseau a explosé aussi. Ils ont alors compris.</value>
+    <value>DATURA: Ami s'est demandé pourquoi je n'utilisais pas de nouveau l'appareil, mais je lui ai assuré que je savais ce que je faisais. Nous avons attendu... et attendu... puis, bang ! Son vaisseau a explosé aussi. Il a alors compris.</value>
   </entry>
   <entry>
     <key>DATURA: Friend used to go off to their clan occasionally. Perhaps building a house here made it so they don't need to? Anyway, I'm glad you're here, Friend.</key>
-    <value>DATURA: Ami avaient l'habitude d'aller dans leur clan de temps en temps. Peut-être qu'en construisant une maison ici, ils n'en auront plus besoin ? Quoi qu'il en soit, je suis heureux que vous soyez là, Ami.</value>
+    <value>DATURA: Ami avait l'habitude d'aller dans son clan de temps en temps. Peut-être qu'en construisant une maison ici, il n'en aurait plus besoin ? Quoi qu'il en soit, je suis heureux que vous soyez là, Ami.</value>
   </entry>
   <!-- Shuttle Crusher: Crush Ship of Friend: End -->
   <!-- Shuttle Crusher: Call to Solanum: Start -->
@@ -654,7 +654,7 @@
   </entry>
   <entry>
     <key>DATURA: Oh, uh. Right. Well, let’s see... Filix detected a signal on the Vessel - a signal from something older than the universe. Spooky. And we can’t find the signal anymore, so... I mean that’s it really.</key>
-    <value>DATURA: Oh, euh. C'est vrai. Eh bien, voyons voir... Filix a détecté un signal sur le vaisseau - un signal provenant de quelque chose de plus vieux que l'univers. Effrayant. Et on ne trouve plus le signal, donc... Je veux dire, c'est tout.</value>
+    <value>DATURA: Oh, euh. C'est vrai. Eh bien, voyons voir... Filix a détecté un signal sur le vaisseau - un signal provenant de quelque chose de plus vieux que l'univers. Effrayant. Et on ne trouve plus le signal, donc... voilà quoi.</value>
   </entry>
   <entry>
     <key>SOLANUM: The Vessel. That was the other thing! What happened to the Vessel?</key>
@@ -670,7 +670,7 @@
   </entry>
   <entry>
     <key>DATURA: You’re curious, are you? Well, alright. But don’t tell your mother I didn’t warn you.</key>
-    <value>DATURA: Tu est curieuse, n'est-ce pas ? Eh bien, d'accord. Mais ne dis pas à ta mère que je ne t'ai pas prévenu.</value>
+    <value>DATURA: Tu es curieuse, n'est-ce pas ? Eh bien, d'accord. Mais ne dis pas à ta mère que je ne t'ai pas prévenue.</value>
   </entry>
   <entry>
     <key>DATURA: So! I suppose I’ll tell it from my perspective. Ahem! I was once a crew member of: the Vessel - a moon-sized space ship capable of warping anywhere.</key>
@@ -678,7 +678,7 @@
   </entry>
   <entry>
     <key>DATURA: I was reading in the library, when suddenly we warp! But, on our arrival there was a horrible screeching sound! We had crashed. I try to look for your mother, but I am forced onto an Escape Pod.</key>
-    <value>DATURA: J'étais en train de lire dans la bibliothèque, quand soudain nous nous sommes téléportés ! Mais à notre arrivée, il y a eu un horrible bruit de crissement ! Nous nous étions écrasés. J'ai essayé de chercher ta mère, mais on m'a obliger à monter dans une capsule de sauvetage.</value>
+    <value>DATURA: J'étais en train de lire dans la bibliothèque, quand soudain nous nous sommes téléportés ! Mais à notre arrivée, il y a eu un horrible bruit de crissement ! Nous nous étions écrasés. J'ai essayé de chercher ta mère, mais on m'a obligé à monter dans une capsule de sauvetage.</value>
   </entry>
   <entry>
     <key>DATURA: I landed on Ember Twin, and Filix landed on Brittle Hollow. Both groups had to rebuild to survive.</key>
@@ -702,7 +702,7 @@
   </entry>
   <entry>
     <key>DATURA: Yeah, it... never got out of Dark Bramble.</key>
-    <value>DATURA: Oui, elle... n'est jamais sorti de Sombronces.</value>
+    <value>DATURA: Oui, elle... n'est jamais sortie de Sombronces.</value>
   </entry>
   <entry>
     <key>SOLANUM: Are they alright?</key>
@@ -773,7 +773,7 @@
   <!-- Anglerfish Hunting Blind: Mouth of Anglerfish: Start -->
   <entry>
     <key>DATURA: I’ve finally collected enough courage to start exploring this planet’s insides! To adventure!</key>
-    <value>DATURA: J'ai enfin rassemblé assez de courage pour commencer à explorer les entrailles de cette planète ! A l'aventure !</value>
+    <value>DATURA: J'ai enfin rassemblé assez de courage pour commencer à explorer les entrailles de cette planète ! À l'aventure !</value>
   </entry>
   <entry>
     <key>DATURA: Update: Well... I found... Escape Pod 3. I followed the lights they left to a seed... surrounded by Nomai. Who were all... no longer with us.</key>
@@ -799,7 +799,7 @@
   <!-- Anglerfish Hunting Blind: Near Warp Pad: Start -->
   <entry>
     <key>DATURA: Warp Pad! And a simple one! ...Yarrow, why are you and Root planning to waste so much time and resources building giant towers for EACH warp pad?!</key>
-    <value>DATURA:Une aire de distortion ! Et une simple ! ...Yarrow, pourquoi Root et toi prévoyez de perdre autant de temps et de ressources à construire des tours géantes pour CHAQUE aire de distortion !</value>
+    <value>DATURA: Une aire de distortion ! Et une simple ! ...Yarrow, pourquoi Root et toi prévoyez de perdre autant de temps et de ressources à construire des tours géantes pour CHAQUE aire de distortion !</value>
   </entry>
   <entry>
     <key>DATURA: One tower is enough!</key>
@@ -891,11 +891,11 @@
   </entry>
   <entry>
     <key>DATURA: Update: Seems like they’re staying for a while! I’ll start building a house for them at the &lt;color=orange&gt;South Pole&lt;/color&gt;.</key>
-    <value>DATURA: Mise à jour : Il semble qu'ils restent pour un certain temps ! Je vais commencer à construire une maison pour eux au &lt;color=orange&gt;Pôle Sud&lt;/color&gt;.</value>
+    <value>DATURA: Mise à jour : Il semble qu'il reste pour un certain temps ! Je vais commencer à construire une maison pour lui au &lt;color=orange&gt;Pôle Sud&lt;/color&gt;.</value>
   </entry>
   <entry>
     <key>DATURA: Before my clan crashed here, I had read about their species. If we could understand eachother’s languages, I’d love to hear their encounter with &lt;color=lightblue&gt;The Collector&lt;/color&gt; from their perspective.</key>
-    <value>DATURA: Avant que mon clan ne s'écrase ici, j'avais lu des choses sur leur espèce. Si nous pouvions comprendre la langue de l'autre, j'aimerais entendre leur rencontre avec &lt;color=lightblue&gt;Le Collectionneur&lt;/color&gt; de leur point de vue.</value>
+    <value>DATURA: Avant que mon clan ne s'écrase ici, j'avais lu des choses sur son espèce. Si nous pouvions comprendre la langue de l'autre, j'aimerais entendre sa rencontre avec &lt;color=lightblue&gt;Le Collectionneur&lt;/color&gt; de son point de vue.</value>
   </entry>
   <entry>
     <key>DATURA: If it’s not a touchy subject, of course.</key>
@@ -949,7 +949,7 @@
   </entry>
   <entry>
     <key>DATURA: I teach Friend the Nomai language so we can talk to each other, and they teach me art, as it appears to be very important to their species.</key>
-    <value>DATURA: J'enseigne à Ami la langue Nomaï pour que nous puissions nous parler, et ils m'enseignent l'art, qui semble être très important pour leur espèce.</value>
+    <value>DATURA: J'enseigne à Ami la langue Nomaï pour que nous puissions nous parler, et il m'enseigne l'art, qui semble être très important pour son espèce.</value>
   </entry>
   <entry>
     <key>DATURA: Though, judging by my painting here, I have a lot to learn!</key>
@@ -1204,15 +1204,15 @@
   </entry>
   <entry>
     <key>DATURA: ...? Nothing... Maybe they’re asleep. (...Sheesh, look at this metal door and cage... They really don’t want me getting in there again, huh.)</key>
-    <value>DATURA: ... ? Rien... Peut-être qu'ils dorment. (...Bon sang, regardez cette porte et cette cage en métal... Ils ne veulent vraiment pas que je rentre à nouveau là-dedans, hein.)</value>
+    <value>DATURA: ... ? Rien... Peut-être qu'il dort. (...Bon sang, regardez cette porte et cette cage en métal... Ils ne veulent vraiment pas que je rentre à nouveau là-dedans, hein.)</value>
   </entry>
   <entry>
     <key>DATURA: (Well, I can’t chop my way in... Unless... Ow! Stupid metal... Uh, I need like a... like an explosion or something to blast this stupid door down.)</key>
-    <value>DATURA: (Je ne peux pas me frayer un chemin...) A moins que... Ow ! Stupide métal... Euh, j'ai besoin d'une... d'une explosion ou quelque chose comme ça pour faire sauter cette stupide porte).</value>
+    <value>DATURA: (Je ne peux pas me frayer un chemin...) À moins que... Ow ! Stupide métal... Euh, j'ai besoin d'une... d'une explosion ou quelque chose comme ça pour faire sauter cette stupide porte).</value>
   </entry>
   <entry>
     <key>DATURA: (But how would I make an explosion...? And a... safe one? Is there even such a thing?)</key>
-    <value>DATURA: (Mais comment faire une explosion... ? Et une explosion... sûre ? Est-ce que cela existe ?)</value>
+    <value>DATURA: (Mais comment faire une explosion... ? Et une explosion... sûre ? Est-ce que ça existe ?)</value>
   </entry>
   <entry>
     <key>DATURA: Ugh... my stupid curiosity... Ironic, is it not?</key>
@@ -1278,7 +1278,7 @@
   </entry>
   <entry>
     <key>DATURA: ...A... while later... Friend wakes me up. ...I hugged them tightly, wanting to tell them I’m sorry... but looking over, I see: Friend’s ’still alive’ friends (whatever they meant by that).</key>
-    <value>DATURA: ...Un... moment plus tard... Ami me réveille. ...Je les ai serrés fort dans mes bras, voulant leur dire que j'étais désolé... mais en regardant, j'ai vu : les amis "encore en vie" d'Ami (quoi qu'ils aient voulu dire par là).</value>
+    <value>DATURA: ...Un... moment plus tard... Ami me réveille. ...Je l'ai serré fort dans mes bras, voulant lui dire que j'étais désolé... mais en regardant, j'ai vu : les amis "encore en vie" d'Ami (quoi qu'ils aient voulu dire par là).</value>
   </entry>
   <entry>
     <key>DATURA: I’m just... worried I did something really bad. ...I didn’t intend to... I hope I can tell Friend-</key>
@@ -1294,7 +1294,7 @@
   </entry>
   <entry>
     <key>DATURA: Oh... what? You’re gonna lock them away? Ha, is that your solution for everything, or something? ...uh, hey! Let go of me! Ah! Friend! I-!</key>
-    <value>DATURA: Oh... quoi ? Vous allez les enfermer ? Ha, c'est votre solution pour tout, ou quelque chose comme ça ? ...uh, hey ! Lâchez-moi ! Ah ! Ami ! Je- !</value>
+    <value>DATURA: Oh... quoi ? Vous allez les enfermer ? Ha, c'est votre solution pour tout, ou quelque chose comme ça ? ...hein, hey ! Lâchez-moi ! Ah ! Ami ! Je- !</value>
   </entry>
   <!-- Sealed Structure: Inside: End -->
   <!-- Sealed Structure: Inside from Friend: Start -->
@@ -1830,7 +1830,7 @@
   </entry>
   <entry>
     <key>FRIEND: At the time, my species was pre-interstellar, and, unable to combat this threat, sent out a distress signal, with fragmented hope that someone out there could help!</key>
-    <value>AMI: A l'époque, mon espèce était pré-interstellaire et, incapable de combattre cette menace, elle a envoyé un signal de détresse, avec l'espoir fragmentaire que quelqu'un pourrait l'aider !</value>
+    <value>AMI: À l'époque, mon espèce était pré-interstellaire et, incapable de combattre cette menace, elle a envoyé un signal de détresse, avec l'espoir fragmentaire que quelqu'un pourrait l'aider !</value>
   </entry>
   <entry>
     <key>FRIEND: But the planet drew nearer! And threatened to destroy us, and all life in this galaxy.</key>
@@ -1998,15 +1998,15 @@
   </entry>
   <entry>
     <key>DATURA: And, now... Solanum... I’ve failed you... I’ve failed... everyone.</key>
-    <value>DATURA:Et maintenant... Solanum... Je t'ai laissé tomber... J'ai laissé tomber... tout le monde.</value>
+    <value>DATURA: Et maintenant... Solanum... Je t'ai laissé tomber... J'ai laissé tomber... tout le monde.</value>
   </entry>
   <entry>
     <key>DATURA: Solanum... If there’s a chance you are reading this: get the Warp Core from Ash Twin, go to the Vessel and leave this place!</key>
-    <value>DATURA: Solanum... S'il y a une chance que tu lise ceci : récupére le noyau de distorsion des Sablières, va au Vaisseau et quitte cet endroit !</value>
+    <value>DATURA: Solanum... S'il y a une chance que tu lises ceci : récupère le noyau de distorsion des Sablières, va au Vaisseau et quitte cet endroit !</value>
   </entry>
   <entry>
     <key>DATURA: ...I’m sorry! I never wanted to leave you alone like this!</key>
-    <value>DATURA: ...Je suis désolée ! Je n'ai jamais voulu te laisser seule comme ça !</value>
+    <value>DATURA: ...Je suis désolé ! Je n'ai jamais voulu te laisser seule comme ça !</value>
   </entry>
   <entry>
     <key>DATURA: I... never wanted to leave you alone.</key>
@@ -2026,11 +2026,11 @@
   </entry>
   <entry>
     <key>DATURA: I’m sorry, everyone. For letting you all down...</key>
-    <value>DATURA: Je suis désolée, tout le monde. De vous avoir tous laissé tomber...</value>
+    <value>DATURA: Je suis désolé, tout le monde. De vous avoir tous laissé tomber...</value>
   </entry>
   <entry>
     <key>DATURA: I’m sorry... I wasn’t... ...better...</key>
-    <value>DATURA: Je suis désolée... Je n'étais pas... ...meilleur....</value>
+    <value>DATURA: Je suis désolé... Je n'étais pas... ...meilleur....</value>
   </entry> <!-- same as in Friend but... -->
   <!-- Northern Observatory: On Body: End -->
   <table_shipLog>
@@ -2063,7 +2063,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>South Pole Settlement</key>
-    <value>Instaslations du pôle Sud</value>
+    <value>Installations du pôle Sud</value>
   </table_shipLog>
   <table_shipLog>
     <key>South Pole Shelter</key>
@@ -2211,7 +2211,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherSomeone referred to as ’Friend’ also wanted to destroy their ship. After damaging their ship, its alarm went off too. Datura remembered that he should just stand back and wait until it exploded.</key>
-    <value>Quelqu'un appelé 'Ami' voulait aussi détruire leur vaisseau. Après avoir endommagé leur vaisseau, l'alarme s'est également activée. Datura se rappela qu'il devait rester à l'écart et attendre que le vaisseau explose.</value>
+    <value>Quelqu'un appelé 'Ami' voulait aussi détruire leur vaisseau. Après avoir endommagé son vaisseau, l'alarme s'est également activée. Datura se rappela qu'il devait rester à l'écart et attendre que le vaisseau explose.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Shuttle CrusherI used a switch to activate the crusher.</key>
@@ -2283,7 +2283,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageDatura teached Friend the Nomai language, and they teached him art.</key>
-    <value>Datura a enseigné à Ami la langue Nomaï, et ils lui ont enseigné l'art.</value>
+    <value>Datura a enseigné à Ami la langue Nomaï, et il lui a enseigné l'art.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Bramble VillageDatura argued at Yarrow that they should be finding a way to leave this star system. Datura, promising Filix he would return, left to Dark Bramble to find the Vessel.</key>
@@ -2355,7 +2355,7 @@
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeI met Friend! They had to communicate using the Nomai language, as I can’t translate theirs.</key>
-    <value>J'ai rencontré Ami ! Ils ont dû communiquer en utilisant la langue Nomaï, car je ne peux pas traduire la leur.</value>
+    <value>J'ai rencontré Ami ! Il a dû communiquer en utilisant la langue Nomaï, car je ne peux pas traduire la sienne.</value>
   </table_shipLog>
   <table_shipLog>
     <key>Cliffside HomeFor one of the security measures, Datura used a quantum shard to effect the Northern Observatory’s door, so I must not be looking at the door when entering.</key>
